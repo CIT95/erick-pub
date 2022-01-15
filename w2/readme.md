@@ -1,0 +1,2 @@
+# Possible Project Idea
+One type of project that has always interested me was Discord Bots. I think it would be quite intersing if we could create our own bot that would allow a user to react to a post to assign them their own roles. I know there are bots that do this already but i think it is a good stepping stone to get into the discord bot realm. It doesnt seem to far fetched of an idea seeing as how professor Waller manually adds students to the class roles.
